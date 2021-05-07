@@ -1,0 +1,1 @@
+{'kaufman': 'kaufman-mg005-be00778-sn003-ep01024-weights-v001.h5', 'ffnn_keras': 'ffnn_keras-mg005-be00778-sn003-ep00127-weights-v032.h5'}
